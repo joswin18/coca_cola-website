@@ -10,4 +10,4 @@ fresh and innovative user experience.
 * Branding Consistency: The design maintains Coca-Cola's branding elements, such as the iconic red color and the recognizable logo, to ensure a cohesive brand identity.
 * Interactive Elements: Interactive elements like smooth scrolling, hover effects, and subtle animations enhance the user experience and engagement.
 
-view this here > [GitHub Pages](--)
+view this here > [GitHub Pages](https://joswin18.github.io/coca_cola-website/).
